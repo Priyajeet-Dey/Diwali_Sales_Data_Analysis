@@ -1,1 +1,1 @@
-Diwali Sales Data Analysis
+Diwali Sales Data Analysis: Conducted an in-depth analysis of Diwali sales data using Python, leveraging powerful libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The analysis focused on understanding customer behavior and sales patterns across various dimensions, including user demographics, product categories, and geographic regions. Key indexes used include 'User_ID', 'Cust_name', 'Product_ID', 'Gender', 'Age Group', 'State', and 'Amount'.
